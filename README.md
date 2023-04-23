@@ -2,6 +2,9 @@
 
 A simple calculator application which performs arithmetic operations on two given inputs. It has the ability to undo the input, perform with integers and doubles, giving answers upto second place of decimal and clearing all the inputs as well.
 
+## Screenshots
+
+<img src="/Calculator.jpeg?raw=true" width="500" height="800">
 
 ## Getting Started
 
